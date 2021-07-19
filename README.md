@@ -8,3 +8,4 @@
 
 ## Walkthrough Video
 
+![]https://github.com/jhwang2525/team-profile-generator/blob/main/example/example.gif?raw=true
