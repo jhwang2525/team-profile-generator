@@ -1,5 +1,9 @@
 # Team-Profile-Generator
 
+# Usage
+
+* Application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+
 ## User Story
 
 * AS A manager
